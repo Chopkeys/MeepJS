@@ -4,6 +4,7 @@ const { Client } = require("discord.js");
 /**
  *  @param {Client} client
  */
+
 module.exports = async (client, PG, Ascii, rcon) => {
     const Table = new Ascii("Command Loaded");
 
