@@ -8,3 +8,5 @@
 If you have any questions on how this works further feel free to DM me or add me on discord -> (Chopkeys#0211)
 
 #### If you like this make sure to give it a ⭐ star!
+
+Thank you to Lyxcode for supplying the starting grounds to this bot (CMD Handler etc;)
